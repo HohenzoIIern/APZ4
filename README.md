@@ -3,5 +3,5 @@
 # Authors:
 
 - Oleksii Yarosh
-- Mykola Nebylytsia
+- Mykola Nebylytsa
 - Artur Chalyi
