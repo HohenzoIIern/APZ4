@@ -1,0 +1,5 @@
+print I study in KPI!
+
+cat q w e
+zxc q w e
+cat Hello World!
